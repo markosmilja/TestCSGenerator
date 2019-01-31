@@ -1,10 +1,8 @@
-﻿
+﻿using System;
+
 // This is generated code:
-class MyGeneratedClass {
-  // Generated code:
+public class MyGeneratedClass {
   private int IntProp1 = 0;
-  // Generated code:
   private int IntProp2 = 0;
-  // Generated code:
   private int IntProp3 = 0;
 }

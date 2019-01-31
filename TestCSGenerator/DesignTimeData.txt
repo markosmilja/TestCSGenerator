@@ -1,0 +1,3 @@
+﻿IntProp1
+IntProp2
+IntProp3
